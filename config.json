@@ -1,0 +1,66 @@
+{
+  "ascii": [
+    "███╗   ██╗███████╗████████╗██████╗  █████╗ ███████╗██╗  ██╗",
+    "████╗  ██║██╔════╝╚══██╔══╝██╔══██╗██╔══██╗██╔════╝██║  ██║",
+    "██╔██╗ ██║█████╗     ██║   ██████╔╝███████║███████╗███████║",
+    "██║╚██╗██║██╔══╝     ██║   ██╔══██╗██╔══██║╚════██║██╔══██║",
+    "██║ ╚████║███████╗   ██║   ██████╔╝██║  ██║███████║██║  ██║",
+    "╚═╝  ╚═══╝╚══════╝   ╚═╝   ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝"
+  ],
+  "title": "NetBash - Rijad Maglic",
+  "username": "guest",
+  "hostname": "netbash",
+  "password": "yayyoumadeit",
+  "repoLink": "https://tryhackme.com/p/rixony",
+  "social": {
+    "email": "rijad.maglic@unvi.edu.ba",
+    "github": "/p/rixony",
+    "linkedin": "/in/rijad-maglic"
+  },
+  "aboutGreeting": "Hi stranger. Welcome to NetBash. Try to unlock the mysteries that await within these cryptic confines.",
+  "projects": [
+    [
+      "Syntax",
+      "Business website I'm running with my friend",
+      "https://syntax.ba"
+    ],
+    [
+      "AM2",
+      "A car detailing company I did a website for.",
+      "https://am2.ba"
+    ],
+    [
+      "K&K",
+      "Household services website",
+      "https://kkumbau.de"
+    ],
+    [
+      "Dram radosti",
+      "Publishing house",
+      "https://dramradosti.ba"
+    ]
+  ],
+  "colors": {
+    "background": "#0C0623",
+    "foreground": "#F8DDE5",
+    "banner": "#FF9951",
+    "border": {
+      "visible": true,
+      "color": "#FFADE2"
+    },
+    "prompt": {
+      "default": "#A5A7A7",
+      "user": "#FE6BC9",
+      "host": "#70FDFF",
+      "input": "#FF7685"
+    },
+    "link": {
+      "text": "#B6AAEE",
+      "highlightColor": "#FFADE2",
+      "highlightText": "#0C0623"
+    },
+    "commands": {
+      "textColor": "#FD9BDB"
+    }
+  }
+}
